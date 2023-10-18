@@ -33,6 +33,6 @@ trio-websocket==0.9.2
 tweepy==4.0.1
 tzdata==2021.1
 tzlocal==3.0
-urllib3==1.26.6
+urllib3==1.26.18
 webencodings==0.5.1
 wsproto==1.1.0
