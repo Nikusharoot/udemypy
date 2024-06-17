@@ -6,7 +6,7 @@ cachetools==4.2.2
 certifi==2021.5.30
 cffi==1.15.1
 charset-normalizer==2.0.4
-cryptography==37.0.4
+cryptography==42.0.8
 h11==0.13.0
 html5lib==1.1
 idna==3.2
